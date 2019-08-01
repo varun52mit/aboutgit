@@ -31,14 +31,15 @@ I am covering some basic day to day commands involved in GIT, starting from the 
       
 **3. Login to Gitlab or Github (with your credentials)**
 
-**4. Click on User-avatar -> Settings -> ssh and Gpg keys - Paste the ssh key, enter the title and click on save**
+**4. Click on User-avatar -> Settings -> ssh and Gpg keys - Paste the ssh key, enter the title and click on save.**
    Open gitbash or terminal and enter the following command.
    
    > ssh -T git@github.com  
    
    You should receive a welcome message. Note ssh key for the github and gitlab could slightly vary. 
 
-**5. Setting up git user details**, Open Terminal / Git bash in 
+**5. Setting up git user details**
+    Open Terminal / Git bash in 
 
       > git config --global user.name "<<< firstname lastname>>>"
       
