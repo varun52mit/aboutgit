@@ -5,7 +5,7 @@ I am covering some basic day to day commands involved in GIT, starting from the 
 1. [Installation](#Installation)
 2. [Basic commands](#Basic-Commands)
 
-**_## Installation_**
+**_ ## Installation_**
 
 **1. Install git**
 
@@ -53,6 +53,6 @@ I am covering some basic day to day commands involved in GIT, starting from the 
       <<< abc@test.com >>>
       ```
       
-**_## Basic Commands_**
+**_ ## Basic Commands_**
 
     
