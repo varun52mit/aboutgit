@@ -2,8 +2,8 @@
 
 I am covering some basic day to day commands involved in GIT, starting from the installation and setup both in windows and linux. 
 
-1. [Installation](##Installation)
-2. [Basic commands](##Basic-Commands)
+1. [Installation](#Installation)
+2. [Basic commands](#Basic-Commands)
 
 ## Installation
 
