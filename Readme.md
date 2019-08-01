@@ -1,8 +1,11 @@
-## Setting up git and basic commands
-1. [Installation](#Installation)
-2. [Basic commands](#Basic-Commands)
+# Setting up git and basic commands
 
-# Installation
+I am covering some basic day to day commands involved in GIT, starting from the installation and setup both in windows and linux. 
+
+1. [Installation](##Installation)
+2. [Basic commands](##Basic-Commands)
+
+## Installation
 
 1. Install git 
 
@@ -50,6 +53,6 @@
       <<< abc@test.com >>>
       ```
       
-# Basic Commands
+## Basic Commands
 
     
