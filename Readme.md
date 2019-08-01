@@ -1,6 +1,6 @@
 ## Setting up git and basic commands
-1. [Installation](Installation)
-2. [Basic commands](Basic-Commands)
+1. [Installation](#Installation)
+2. [Basic commands](#Basic-Commands)
 
 # Installation
 
