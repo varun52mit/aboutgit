@@ -1,6 +1,6 @@
 ## Setting up git and basic commands
-1. Installation
-2. Basic commands
+1. Installation [#Installation]
+2. Basic commands [## Basic Commands]
 
 # Installation
 
@@ -28,7 +28,12 @@
       
 3. Open Gitlab or Github (with your credentials)
 
-4. Click on User-avatar -> Goto Settings -> ssh and Gpg keys - Paste the ssh key, enter the title and click on save
+4. Click on User-avatar -> Settings -> ssh and Gpg keys - Paste the ssh key, enter the title and click on save
+   Open gitbash or terminal and enter the following command.
+   
+   > ssh -T git@github.com  
+   
+   You should receive a welcome message. Note ssh key for the github and gitlab could slightly vary. 
 
 5. Setting up user details, Open Terminal / Git bash in 
 
@@ -44,5 +49,7 @@
       <<< firstname lastname >>>
       <<< abc@test.com >>>
       ```
+      
+## Basic Commands
 
     
